@@ -1,0 +1,6 @@
+# Folders
+build/
+.cache/
+
+# Files
+starfieldSimulator
